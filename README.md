@@ -8,6 +8,7 @@ The Machine Learning models used are:
 1. XGB Classifier
 2. K-Nearest Neighbors Classifier
 3. AdaBoost Classifier
+Metrics that we’ll use for evaluating the models are accuracy and F1-score metric. We choose accuracy as a matrix because it will be used as a reference for algorithm performance if the data set has a very close number of False Negatives and False Positives. However, if the numbers are not close, then I should use the F1 Score as a reference.
 
 ## Summary
 This article is intended to:
