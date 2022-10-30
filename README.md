@@ -3,7 +3,7 @@
 Weather forecasting is an important science. Accurate forecasting can help to save lives and minimize property damage. It's also crucial for agriculture, allowing farmers to track when it's best to plant or helping them protect their crops. And it will only become more vital in the coming years. We are going to make a simple weather forecasting to predict the upcoming weather based on available data.
 
 ## Project Overview
-The dataset I'm using here is Seattle weather from Kaggle. Here's link to my Github.
+The dataset I'm using here is Seattle weather from Kaggle.
 The Machine Learning models used are:
 1. XGB Classifier
 2. K-Nearest Neighbors Classifier
