@@ -1,4 +1,4 @@
-# Weather Forecasting with Python Machine Learning
+# Weather Forecasting with Classifier
 
 Weather forecasting is an important science. Accurate forecasting can help to save lives and minimize property damage. It's also crucial for agriculture, allowing farmers to track when it's best to plant or helping them protect their crops. And it will only become more vital in the coming years. We are going to make a simple weather forecasting to predict the upcoming weather based on available data.
 
